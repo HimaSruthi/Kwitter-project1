@@ -1,0 +1,14 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+  text-align: center;
+  background-image: linear-gradient( #80DEEA, #FFCDD2, #CE93D8,#BA68C8,#EA80FC);
+  align-items:center ;
+}
+ 
+html,body
+{
+
+text-align:center;
+}
